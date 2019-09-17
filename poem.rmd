@@ -19,7 +19,7 @@ you, if you change any of this the git program will notice it and compromise you
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
-I have been one acquainted with the night.  
+I have been one acquainted with the night.   
 I have walked out in rain—and back in rain.  
 I have outwalked the furthest city light.  
 
